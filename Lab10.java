@@ -29,7 +29,7 @@ public class Lab10 {
 	   // visit[0]=true;
 	    boolean jit=false;
 	    int [] path=new int [lat.length];
-	    
+	   
 	    int step=0;
 	    double distance=77777777;
 	    
